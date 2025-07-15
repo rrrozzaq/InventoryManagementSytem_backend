@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uPvep1yUtCYgC5r8SWQgJtQw9f2/CV+BwIm/N7bccHk=",
+  "Source": "InvenTrack.Api",
+  "BasePath": "_content/InvenTrack.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
